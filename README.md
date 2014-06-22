@@ -1,4 +1,4 @@
-#Project desciption
+#Project description
 
 The source code needed to re-create a tidy data set from the orginal data set is contained in the folowing files:
 
